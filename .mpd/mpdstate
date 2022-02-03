@@ -1,0 +1,56 @@
+sw_volume: 55
+audio_device_state:1:MySound
+audio_device_state:1:my_fifo
+state: pause
+current: 40
+time: 6.937000
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:macklemore_x_ryan_lewis_can_t_hold_us_southend_revolution_remix.mp3
+1:Imagine_Dragons_JID_-_Enemy_Lyric_(getmp3.pro).mp3
+2:til_i_collapse_-_eminem_slowed__(getmp3.pro).mp3
+3:PlayaPhonk-keraunos_s_l_o_w_e_d_r_(getmp3.pro).mp3
+4:IShowSpeed_-_Shake_Lyrics_ready_(getmp3.pro).mp3
+5:SHAME_Ghost_Edit_OUT_NOW__(getmp3.pro).mp3
+6:Linius_Kordas_-_Black_Bimmer_KEA_(getmp3.pro).mp3
+7:LoveCPR_Full_CPR_x_LoveGame_Remix_(getmp3.pro).mp3
+8:God_knows_how_many_times_I_have_wat_(getmp3.pro).mp3
+9:LoveCPR_Full_CPR_x_LoveGame_Remix_(getmp3.pro).mp3
+10:DavrstZHIOHN.mp3
+11:Mike_Williams_x_Dastic_-_Kylie_(getmp3.pro).mp3
+12:AgniKaiTrapRemixMusicalitygetmp3pro.mp3
+13:SHAME_Ghost_Edit_OUT_NOW__(getmp3.pro).mp3
+14:DavrstZHIOHN.mp3
+15:KILLKA_-_Ghostface_Playa_fkbambam_(getmp3.pro).mp3
+16:TANDEM-7OH2_(getmp3.pro).mp3
+17:MONTERO_x_My_Ordinary_Life_Lil_Nas_(getmp3.pro).mp3
+18:IShowSpeed_-_Shake_Lyrics_ready_(getmp3.pro).mp3
+19:MONTERO_x_My_Ordinary_Life_Lil_Nas_(getmp3.pro).mp3
+20:in_heat_but_its_actually_suicide_ye_(getmp3.pro).mp3
+21:KILLKA_-_Ghostface_Playa_fkbambam_(getmp3.pro).mp3
+22:Jaymes_Young_-_Infinity_Lyrics_(getmp3.pro).mp3
+23:Industry_Baby_x_Beat_It_-_Michael_J_(getmp3.pro).mp3
+24:sex_whales_fraxo_-_dead_to_me__(getmp3.pro).mp3
+25:Imagine_Dragons_JID_-_Enemy_Lyric_(getmp3.pro).mp3
+26:TANDEM-7OH2_(getmp3.pro).mp3
+27:Linius_Kordas_-_Black_Bimmer_KEA_(getmp3.pro).mp3
+28:sucker_for_pain_-_imagine_dragons__(getmp3.pro).mp3
+29:sex_whales_fraxo_-_dead_to_me__(getmp3.pro).mp3
+30:sucker_for_pain_-_imagine_dragons__(getmp3.pro).mp3
+31:God_knows_how_many_times_I_have_wat_(getmp3.pro).mp3
+32:til_i_collapse_-_eminem_slowed__(getmp3.pro).mp3
+33:Mike_Williams_x_Dastic_-_Kylie_(getmp3.pro).mp3
+34:Blackbear-hot_girl_bummer_tik_tok_(getmp3.pro).mp3
+35:Industry_Baby_x_Beat_It_-_Michael_J_(getmp3.pro).mp3
+36:PlayaPhonk-keraunos_s_l_o_w_e_d_r_(getmp3.pro).mp3
+37:Jaymes_Young_-_Infinity_Lyrics_(getmp3.pro).mp3
+38:macklemore_x_ryan_lewis_can_t_hold_us_southend_revolution_remix.mp3
+39:in_heat_but_its_actually_suicide_ye_(getmp3.pro).mp3
+40:Blackbear-hot_girl_bummer_tik_tok_(getmp3.pro).mp3
+playlist_end
