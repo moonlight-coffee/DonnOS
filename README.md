@@ -1,10 +1,12 @@
 # DonnOS
 my rice configuration after some inspiration
+![2022-02-03_18-58](https://user-images.githubusercontent.com/98967930/152395144-ff3885f2-c66b-4716-b7a1-972835d8c65f.png)
+![2022-02-03_19-03](https://user-images.githubusercontent.com/98967930/152395157-457372ff-a6e0-448e-a1eb-fb6743c10016.png)
 
 OS: MANJARO
 WM: BSPWM
 THEME:catppucin
-TERMINAL: urxvt![2022-02-03_18-58](https://user-images.githubusercontent.com/98967930/152395055-e37629f9-b305-425f-8989-ba5d09555b72.png)
+TERMINAL: urxvt
 
 
 Dependences:
