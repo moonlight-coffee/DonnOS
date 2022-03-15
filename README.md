@@ -26,4 +26,4 @@ MINI TUTORIAL
 Done;
 write me on discord or here if you have any problems i will help if i will can :)
 
-Special thanks to Saimon, rxyhn and anothers ;)
+Special thanks to rxyhn and anothers ;)
